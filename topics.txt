@@ -1,0 +1,29 @@
+Interaction Pciture
+Dyson Series
+Transition Probabilities
+Fermi's Golden Rule
+
+Photoionization
+
+EM Field Quantization
+Spontaneous  Emission
+    - polarized radiation
+    - unpolarized radiation
+
+Differential Scattering Cross Section
+Partial Wave Analysis, Optical Theorem
+Classical Scattering
+Rutherford Scattering
+Quantum Scattering
+    - Hard Sphere
+    - Soft Sphere
+    - Born Approximation
+    - Lippmann Schwinger
+
+
+Klein Gordon
+Dirac Equation
+Particle at rest
+Free  Particle
+Non relativistic Approximation in Magnetic field
+Non relativistic Approximation with potential
